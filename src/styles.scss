@@ -47,3 +47,23 @@ body {
     color: #333;
   }
 }
+.carBox{
+  width:800px;
+  background:white;
+  padding:2%;
+  border-radius:8px;
+}
+
+.cars {
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
+
+.menu-list{
+  a{
+    color:white;
+    border-radius: 8px;
+  }
+}
+
